@@ -4,6 +4,8 @@
 
 Memory Leak Detector (MLD) is a lightweight tool designed to detect memory leaks in C programs. It helps developers identify dynamically allocated memory that is not freed before program termination. This tool is implemented in C and provides a detailed report of memory leaks, making debugging more efficient.
 
+![Project Demo](mld.gif)
+
 ### Features
 
 - Detects memory leaks in C programs.
